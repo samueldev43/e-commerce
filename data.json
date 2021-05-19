@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "black hat",
+            "description": "black leather hat",
+            "price": "20,00",
+            "img": "images/hat.png",
+            "amount": 1,
+            "id": 1
+        },
+        {
+            "name": "gray shoes",
+            "description": "gray shoes",
+            "price": "59,80",
+            "img": "images/shoes.jpg",
+            "amount": 1,
+            "id": 2
+        },
+        {
+            "name": "boots",
+            "description": "boot for a walk",
+            "price": "76,25",
+            "img": "images/boot.jpg",
+            "amount": 1,
+            "id": 3
+        }
+    ]
+}
